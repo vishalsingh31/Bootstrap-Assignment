@@ -8,3 +8,4 @@ Updated: August 2013
 Notes:	 Hand coded for Udemy.com
 
 */
+$('[rel="tooltip"]').tooltip();
